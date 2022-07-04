@@ -4,7 +4,7 @@ const Protocol = require('../../common/util/protocol')
 const Region = require("../entities/region")
 
 class Path extends BaseCommand {
-
+// hi
   getUsage() {
     return [
       "/path list",
